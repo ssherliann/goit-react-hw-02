@@ -1,7 +1,7 @@
-import Description from './components/Description'
-import Feedback from './components/Feedback';
-import Options from './components/Options';
-import Notification from './components/Notification';
+import Description from './components/Description/Description'
+import Feedback from './components/Feedback/Feedback';
+import Options from './components/Options/Options';
+import Notification from './components/Notification/Notification';
 import { useState, useEffect } from 'react';
 import './App.css'
 
